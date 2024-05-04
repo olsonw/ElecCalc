@@ -1,0 +1,592 @@
+{
+  "Conductors": [
+    {
+      "AWG": "14",
+      "Dims": {
+        "CircularMils": 4110,
+        "Solid": 0.064,
+        "Stranded": 0.073
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 20,
+          "90C": 25
+        },
+        "Resistance": {
+          "Solid": 3.19,
+          "Stranded": 3.26
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 0,
+          "90C": 0
+        },
+        "Resistance": {
+          "Solid": 5.06,
+          "Stranded": 5.17
+        }
+      }
+    },
+    {
+      "AWG": "12",
+      "Dims": {
+        "CircularMils": 6530,
+        "Solid": 0.081,
+        "Stranded": 0.092
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 25,
+          "90C": 30
+        },
+        "Resistance": {
+          "Solid": 2.01,
+          "Stranded": 2.05
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 20,
+          "90C": 25
+        },
+        "Resistance": {
+          "Solid": 3.18,
+          "Stranded": 3.25
+        }
+      }
+    },
+    {
+      "AWG": "10",
+      "Dims": {
+        "CircularMils": 10380,
+        "Solid": 0.102,
+        "Stranded": 0.116
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 35,
+          "90C": 40
+        },
+        "Resistance": {
+          "Solid": 1.26,
+          "Stranded": 1.29
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 30,
+          "90C": 35
+        },
+        "Resistance": {
+          "Solid": 2.0,
+          "Stranded": 2.04
+        }
+      }
+    },
+    {
+      "AWG": "8",
+      "Dims": {
+        "CircularMils": 16510,
+        "Solid": 0.128,
+        "Stranded": 0.146
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 50,
+          "90C": 55
+        },
+        "Resistance": {
+          "Solid": 0.786,
+          "Stranded": 0.809
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 40,
+          "90C": 45
+        },
+        "Resistance": {
+          "Solid": 1.26,
+          "Stranded": 1.28
+        }
+      }
+    },
+    {
+      "AWG": "6",
+      "Dims": {
+        "CircularMils": 26240,
+        "Solid": 0.0,
+        "Stranded": 0.184
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 65,
+          "90C": 75
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.51
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 50,
+          "90C": 55
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.808
+        }
+      }
+    },
+    {
+      "AWG": "4",
+      "Dims": {
+        "CircularMils": 41740,
+        "Solid": 0.0,
+        "Stranded": 0.232
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 85,
+          "90C": 95
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.321
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 65,
+          "90C": 75
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.508
+        }
+      }
+    },
+    {
+      "AWG": "3",
+      "Dims": {
+        "CircularMils": 52620,
+        "Solid": 0.0,
+        "Stranded": 0.26
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 100,
+          "90C": 115
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.254
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 75,
+          "90C": 85
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.403
+        }
+      }
+    },
+    {
+      "AWG": "2",
+      "Dims": {
+        "CircularMils": 66360,
+        "Solid": 0.0,
+        "Stranded": 0.292
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 115,
+          "90C": 130
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.201
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 90,
+          "90C": 100
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.319
+        }
+      }
+    },
+    {
+      "AWG": "1",
+      "Dims": {
+        "CircularMils": 83690,
+        "Solid": 0.0,
+        "Stranded": 0.332
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 130,
+          "90C": 145
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.16
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 100,
+          "90C": 115
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.253
+        }
+      }
+    },
+    {
+      "AWG": "1/0",
+      "Dims": {
+        "CircularMils": 105600,
+        "Solid": 0.0,
+        "Stranded": 0.372
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 150,
+          "90C": 170
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.127
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 120,
+          "90C": 135
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.201
+        }
+      }
+    },
+    {
+      "AWG": "2/0",
+      "Dims": {
+        "CircularMils": 133100,
+        "Solid": 0.0,
+        "Stranded": 0.418
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 175,
+          "90C": 195
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.101
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 135,
+          "90C": 150
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.159
+        }
+      }
+    },
+    {
+      "AWG": "3/0",
+      "Dims": {
+        "CircularMils": 167800,
+        "Solid": 0.0,
+        "Stranded": 0.47
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 200,
+          "90C": 225
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0797
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 155,
+          "90C": 175
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.126
+        }
+      }
+    },
+    {
+      "AWG": "4/0",
+      "Dims": {
+        "CircularMils": 211600,
+        "Solid": 0.0,
+        "Stranded": 0.528
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 230,
+          "90C": 260
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0626
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 180,
+          "90C": 205
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.1
+        }
+      }
+    },
+    {
+      "AWG": "250",
+      "Dims": {
+        "CircularMils": 250000,
+        "Solid": 0.0,
+        "Stranded": 0.575
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 255,
+          "90C": 290
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0535
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 205,
+          "90C": 230
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0847
+        }
+      }
+    },
+    {
+      "AWG": "300",
+      "Dims": {
+        "CircularMils": 300000,
+        "Solid": 0.0,
+        "Stranded": 0.63
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 285,
+          "90C": 320
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0446
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 230,
+          "90C": 260
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0707
+        }
+      }
+    },
+    {
+      "AWG": "350",
+      "Dims": {
+        "CircularMils": 350000,
+        "Solid": 0.0,
+        "Stranded": 0.681
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 310,
+          "90C": 350
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0382
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 250,
+          "90C": 280
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0605
+        }
+      }
+    },
+    {
+      "AWG": "400",
+      "Dims": {
+        "CircularMils": 400000,
+        "Solid": 0.0,
+        "Stranded": 0.728
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 335,
+          "90C": 380
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0331
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 270,
+          "90C": 305
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0529
+        }
+      }
+    },
+    {
+      "AWG": "500",
+      "Dims": {
+        "CircularMils": 500000,
+        "Solid": 0.0,
+        "Stranded": 0.813
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 380,
+          "90C": 430
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0265
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 310,
+          "90C": 350
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0424
+        }
+      }
+    },
+    {
+      "AWG": "600",
+      "Dims": {
+        "CircularMils": 600000,
+        "Solid": 0.0,
+        "Stranded": 0.893
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 420,
+          "90C": 475
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0223
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 340,
+          "90C": 385
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0353
+        }
+      }
+    },
+    {
+      "AWG": "700",
+      "Dims": {
+        "CircularMils": 700000,
+        "Solid": 0.0,
+        "Stranded": 0.964
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 460,
+          "90C": 520
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0189
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 375,
+          "90C": 425
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0303
+        }
+      }
+    },
+    {
+      "AWG": "750",
+      "Dims": {
+        "CircularMils": 750000,
+        "Solid": 0.0,
+        "Stranded": 0.998
+      },
+      "Copper": {
+        "Amps": {
+          "75C": 475,
+          "90C": 535
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0176
+        }
+      },
+      "Aluminum": {
+        "Amps": {
+          "75C": 385,
+          "90C": 435
+        },
+        "Resistance": {
+          "Solid": 0.0,
+          "Stranded": 0.0282
+        }
+      }
+    }
+  ]
+}
